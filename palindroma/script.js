@@ -32,7 +32,7 @@ if(truevalue == 0){
     
 } else{
     console.log('non palindroma')
-    result.innerHTML += 'ciao'
+    result.innerHTML += 'non palindroma'
 }
 
 
